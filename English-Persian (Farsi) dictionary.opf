@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">912f4858-5080-4ebe-83e9-0b62dc32fc19</dc:identifier>
+        <dc:title>English-Persian (Farsi) dictionary</dc:title>
+        <dc:creator opf:role="aut">Shirin Manzari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-07-04T15:12:19+00:00</dc:date>
+        <dc:publisher>Open Source</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:language>fas</dc:language>
+        <dc:subject>Dictionaries</dc:subject>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="English-Persian (Farsi) dictionary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="English-Persian (Farsi) dictionary - Shirin Manzari.jpg"/>
+    </guide>
+</package>
